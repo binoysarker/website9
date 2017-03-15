@@ -1,0 +1,153 @@
+@font-face{
+	font-family: "Trebuchet MS";
+	src: url("fonts/Trebuchet MS.ttf") format("truetype"),
+	url(fonts/Trebuchet MS.eot) format("eot"),
+	url(fonts/Trebuchet MS.woff) format("woff"),
+	url(fonts/Trebuchet MS.svg) format("svg");
+}
+@font-face{
+	font-family: "nevis";
+	src: url("nevis.ttf") format("truetype"),
+	url(nevis.eot) format("eot"),
+	url(nevis.woff) format("woff"),
+	url(nevis.svg) format("svg");
+}
+
+html, body{
+	font-family: "arial";
+}
+
+.header-bg h1{
+	font-family: "nevis";
+	font-size: 30px;
+	font-weight: normal;
+
+}
+.header-bg h4{
+	font-family: "arial";
+	font-size: 15px;
+	font-weight: normal;
+	color: #575757;
+}
+.header-bg ul li a{
+	font-family: "arial";
+	font-size: 12px;
+	font-weight: bold;
+	color: #575757;
+}
+.jumbotron-bg h2{
+	font-family: "Trebuchet MS";
+	font-size: 29px;
+	font-weight: normal;
+	color: white;
+}
+.jumbotron-bg h1{
+	font-family: "Trebuchet MS";
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+}
+.jumbotron-bg button{
+	font-family: "Trebuchet MS";
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+	text-transform: uppercase;
+}
+
+.container3-bg h2{
+	font-family: "arial";
+	font-size: 15px;
+	font-weight: bold;
+	color: #575757;
+
+}
+.container3-bg p{
+	font-family: "arial";
+	font-size: 12px;
+	font-weight: normal;
+	color: #575757;
+}
+
+.container4-bg h1{
+	font-family: "arial";
+	font-size: 25px;
+	font-weight: bold;
+	color: #575757;
+}
+.container4-bg p{
+	font-family: "arial";
+	font-size: 12px;
+	font-weight: normal;
+	color: #575757;
+}
+.container4-bg a.btn{
+	font-family: "nevis";
+	font-size: 12px;
+	font-weight: bold;
+	color: #575757;
+	
+}
+
+.container5-bg h4{
+	font-family: "arial";
+	font-size: 15px;
+	font-weight: bold;
+	color: #575757;
+}
+.container5-bg ul li a{
+	font-family: "arial";
+	font-size: 12px;
+	font-weight: normal;
+	color: #575757;
+}
+.container5-bg p{
+	font-family: "arial";
+	font-size: 12px;
+	font-weight: bold;
+	color: #575757;
+}
+
+.container6-bg p{
+	font-family: "arial";
+	font-size: 12px;
+	font-weight: normal;
+	color: #575757;
+}
+
+
+/*about us section*/
+
+.slider-bg h2{
+	font-family: "arial";
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+}
+.slider-bg p{
+	font-family: "arial";
+	font-size: 20px;
+	font-style: italic;
+	color: white;
+}
+
+form label{
+	font-family: "arial";
+	font-size: 13px;
+	font-weight: normal;
+	color: #575757;
+}
+
+/*portfolio section*/
+
+.slider-nav a.a2{
+
+	font-family: "arial";
+	font-size: 13px;
+	font-weight: normal;
+	color: #93DAFF;
+}
+
+.slider-nav a.a2:hover{
+	color: white;
+}

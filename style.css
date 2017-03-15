@@ -1,0 +1,187 @@
+
+
+ul{
+	list-style-type: none;
+}
+
+.header-bg{
+	background-color: #FFFFFF;
+	width: 960px;
+	margin: 0 auto;
+}
+
+.slider-bg{
+	background: url("images/f3.png") no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 960px;
+	margin: 0 auto;
+}
+.jumbotron-bg{
+	background: none;
+}
+
+.carousel-indicators-numbers li { 
+		text-indent: 0;
+		margin: 0 2px;
+		width: 30px;
+		height: 30px;
+		border: none;
+		border-radius: 100%;
+		line-height: 30px;
+		color: #fff;
+		background-color: #021763;
+		transition: all 0.25s ease;
+					
+}
+
+.carousel-indicators-numbers li:active{
+	margin: 0 2px;
+	width: 30px;
+	height: 30px;
+	background-color: #337ab7;
+}
+.carousel-indicators-numbers li:hover{
+	margin: 0 2px;
+	width: 30px;
+	height: 30px;
+	background-color: #337ab7;
+}
+.carousel {
+    position: relative;
+    background: #384D85;
+    padding: 3rem;
+    border-radius: 0.6rem;
+}
+.carousel-indicators{
+	right: -10rem;
+	top: 1rem;
+}
+.carousel-indicators-numbers li{
+	background-color: #021763;
+}
+.slider-col{
+	padding: 2rem;
+}
+
+.container-fluid1-bg{
+	background: url("images/f9.png") repeat-y;
+	background-size: cover;
+	background-position: top;
+
+}
+
+
+.jumbotron-bg{
+	background: none;
+}
+.container3-bg{
+	background-color: #EDEDED;
+	width: 960px;
+	margin: 0 auto;
+}
+
+.container4-bg{
+	background-color: #FFFFFF;
+	width: 960px;
+	margin: 0 auto;
+	border-bottom: 2px solid #BABABA;
+}
+.container4-bg .card{
+	min-height: 100%;
+	border: none;
+	padding: 2rem;
+}
+.container5-bg{
+	background-color: #EDEDED;
+	margin: 0 auto;
+	width: 960px;
+}
+.container5-bg .card{
+	background: none;
+	border: none;
+	padding: 2rem;
+}
+.container5-bg{
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.container6-bg{
+	background-color: #EDEDED;
+	margin: 0 auto;
+	width: 960px;
+}
+.container6-bg i.fa1{
+	background-color: #49C8F5;
+}
+.container6-bg i.fa2{
+	background-color: #1783BC;
+}
+.container6-bg i.fa3{
+	background-color: #3C579E;
+}
+
+.container6-bg .p-3{
+	padding: 3rem 2rem!important;
+}
+
+
+/*about us section*/
+
+.content-bg{
+	background-color: #FFFFFF;
+	border-bottom: 2px solid #BABABA; 
+}
+.content-bg .row{
+	width: 960px;
+}
+
+.content-bg h4{
+	background: #cfcfcf; /* Old browsers */
+	background: -moz-linear-gradient(left, #cfcfcf 0%, #d7d7d7 23%, #f7f7f7 78%, #ffffff 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #cfcfcf 0%,#d7d7d7 23%,#f7f7f7 78%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #cfcfcf 0%,#d7d7d7 23%,#f7f7f7 78%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+}
+
+.content-bg p{
+	padding: 2rem;
+	padding-bottom: 0.3rem;
+}
+.sidebar-bg{
+	background: url("images/f23.png") no-repeat;
+	background-size: cover;
+	position: relative;
+
+	min-height: 100%;
+}
+.sidebar-bg h4{
+	z-index: 15;
+    left: 0rem;
+    margin-top: 1.5rem;
+    position: absolute;
+    padding-left: 1rem;
+}
+.sidebar-bg ul{
+	padding: 2.5rem;
+    padding-bottom: 0.2rem;
+    margin-top: 2rem;
+}
+
+.sidebar-bg ul.img-side{
+	padding: 4rem;
+}
+.content-bg .card{
+	border: none;
+}
+.content-bg .card-deck{
+	padding: 1.5rem;
+}
+.content-bg .card-block{
+	padding-left: 0rem;
+}
+.pagination-bg{
+	background: url("images/f34.png") no-repeat;
+	background-size: cover;
+	background-position: top;
+}
